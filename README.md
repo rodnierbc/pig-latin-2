@@ -10,7 +10,7 @@ _{Pig Latin webpage Translate English sentences into Pig Latin}_
 
 ### Specs
 | Spec | Input | Output |
-| :--------------------    | :------------------- | : |------------------------ |
+|-------------------- | ------------------- | ------------------------ |
 | ** Program ignores Non-Alphabetical Characters** | 3 | 3 |
 
 
